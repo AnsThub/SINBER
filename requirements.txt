@@ -1,0 +1,4 @@
+colorama
+phonenumbers
+requests
+beautifulsoup4
