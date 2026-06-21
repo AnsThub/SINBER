@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/xT0GqtpF1NWd9VbstO/giphy.gif" width="350" />
 </p>
 
-SINBER adalah tools berbasis Python untuk simulasi sistem cyber dan OSINT ringan.
+SINBER adalah tools berbasis Python untuk  sistem cyber dan OSINT ringan.
 
 ---
 
